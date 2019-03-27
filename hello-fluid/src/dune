@@ -1,0 +1,6 @@
+
+(library
+  (name Hello)
+  (libraries str flex belt fluid.Files fluid.MacOS )
+  (flags :standard -w -A)
+  (preprocess (pps belt.ppx fluid.ppx)))

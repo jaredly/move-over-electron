@@ -1,0 +1,19 @@
+EXCLUDE_QUERY_DIR
+B /Users/jared/.esy/3___________________________________________________________________/i/belt-7f01884a/lib/belt
+B /Users/jared/.esy/3___________________________________________________________________/i/flex-6a1a95fb/lib/flex
+B /Users/jared/.esy/3___________________________________________________________________/i/ocaml-4.7.1004-e5a2754f/lib/ocaml
+B /Users/jared/clone/talks/move-over-electron/hello-fluid/_esy/default/store/i/fluid-04edceaa/lib/fluid/Files
+B /Users/jared/clone/talks/move-over-electron/hello-fluid/_esy/default/store/i/fluid-04edceaa/lib/fluid/FluidMaker
+B /Users/jared/clone/talks/move-over-electron/hello-fluid/_esy/default/store/i/fluid-04edceaa/lib/fluid/Layout
+B /Users/jared/clone/talks/move-over-electron/hello-fluid/_esy/default/store/i/fluid-04edceaa/lib/fluid/MacOS
+B /Users/jared/clone/talks/move-over-electron/hello-fluid/_esy/default/store/b/hello_fluid-80d55124/default/src/.Hello.objs/byte
+S /Users/jared/.esy/3___________________________________________________________________/i/belt-7f01884a/lib/belt
+S /Users/jared/.esy/3___________________________________________________________________/i/flex-6a1a95fb/lib/flex
+S /Users/jared/.esy/3___________________________________________________________________/i/ocaml-4.7.1004-e5a2754f/lib/ocaml
+S /Users/jared/clone/explorations/fluid/src/core
+S /Users/jared/clone/explorations/fluid/src/files
+S /Users/jared/clone/explorations/fluid/src/layout
+S /Users/jared/clone/explorations/fluid/src/native
+S .
+FLG -ppx '/Users/jared/clone/talks/move-over-electron/hello-fluid/_esy/default/store/b/hello_fluid-80d55124/default/.ppx/9786a1929d64b5a176282090b95e0fef/ppx.exe --as-ppx --cookie '\''library-name="Hello"'\'''
+FLG -w @a-4-29-40-41-42-44-45-48-58-59-60-40 -strict-sequence -strict-formats -short-paths -keep-locs -w -A

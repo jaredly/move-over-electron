@@ -1,0 +1,26 @@
+{
+  "name": "hello-fluid",
+  "version": "1.0",
+  "private": true,
+  "esy": {
+    "build": "dune build -p #{self.name}",
+    "sandboxEnv": {
+      // "FLUID_DEBUG": "true"
+    }
+  },
+  "scripts": {
+    "start": "dune exec HelloDev",
+    "pkg": "sh -c 'cd bundler && ./bundle.sh'"
+  },
+  "dependencies": {
+    "ocaml": ">=4.7.0",
+    "@opam/dune": "*",
+    "@opam/reason": "*",
+    "fluid": "jaredly/fluid",
+    "belt": "jaredly/belt"
+  },
+  "resolutions": {
+    "fluid": "link:../../../explorations/fluid/esy.json"
+  }
+}
+

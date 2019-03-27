@@ -1,0 +1,13 @@
+(executable
+  (public_name HelloDev)
+  (libraries Hello)
+  (modules HelloDev)
+  (link_flags -cclib -framework -cclib Cocoa -cclib -framework -cclib Carbon -cclib -framework -cclib CoreImage)
+  (preprocess (pps belt.ppx fluid.ppx)))
+
+(executable
+  (public_name HelloProd)
+  (modules HelloProd)
+  (libraries Hello)
+  (link_flags -cclib -framework -cclib Cocoa -cclib -framework -cclib Carbon -cclib -framework -cclib CoreImage)
+  (preprocess (pps belt.ppx fluid.ppx)))

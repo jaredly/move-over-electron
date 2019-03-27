@@ -1,0 +1,9 @@
+lib: [
+  "/Users/jared/clone/talks/move-over-electron/hello-fluid/_esy/default/store/b/hello_fluid-80d55124/install/default/lib/hello-fluid/META" {"META"}
+  "/Users/jared/clone/talks/move-over-electron/hello-fluid/_esy/default/store/b/hello_fluid-80d55124/install/default/lib/hello-fluid/dune-package" {"dune-package"}
+  "/Users/jared/clone/talks/move-over-electron/hello-fluid/_esy/default/store/b/hello_fluid-80d55124/install/default/lib/hello-fluid/opam" {"opam"}
+]
+bin: [
+  "/Users/jared/clone/talks/move-over-electron/hello-fluid/_esy/default/store/b/hello_fluid-80d55124/install/default/bin/HelloDev" {"HelloDev"}
+  "/Users/jared/clone/talks/move-over-electron/hello-fluid/_esy/default/store/b/hello_fluid-80d55124/install/default/bin/HelloProd" {"HelloProd"}
+]
