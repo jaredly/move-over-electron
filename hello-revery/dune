@@ -1,0 +1,8 @@
+(executable
+  (public_name App)
+  (libraries Revery))
+
+(install
+    (section bin)
+    (package hello-revery)
+    (files Roboto-Regular.ttf))
