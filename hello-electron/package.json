@@ -1,5 +1,6 @@
 {
   "name": "hello-electron",
+  "productName": "Hello Electron",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "^4.1.1"
+  },
+  "devDependencies": {
+    "electron": "^4.1.1",
+    "electron-packager": "^13.1.1"
   }
 }

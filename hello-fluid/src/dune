@@ -1,6 +1,7 @@
 
 (library
   (name Hello)
-  (libraries str flex belt fluid.Files fluid.MacOS )
+  (libraries str flex belt fluid.Files fluid.MacOS dynlink)
+  ; (modes byte)
   (flags :standard -w -A)
   (preprocess (pps belt.ppx fluid.ppx)))

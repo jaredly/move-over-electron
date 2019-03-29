@@ -4,6 +4,7 @@
   "private": true,
   "esy": {
     "build": "dune build -p #{self.name}",
+    "buildsInSource": "_build",
     "sandboxEnv": {
       // "FLUID_DEBUG": "true"
     }

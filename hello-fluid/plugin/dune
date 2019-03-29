@@ -1,0 +1,6 @@
+
+(library
+  (name Plugin)
+  (libraries Hello)
+  (flags :standard -w -A)
+  (preprocess (pps belt.ppx fluid.ppx)))
