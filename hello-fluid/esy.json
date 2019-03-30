@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "ocaml": ">=4.7.0",
-    "@opam/dune": "*",
+    "@opam/dune": "1.8.2",
     "@opam/reason": "*",
     "fluid": "jaredly/fluid",
     "belt": "jaredly/belt"

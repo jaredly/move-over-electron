@@ -2,7 +2,7 @@
   (public_name HelloDev)
   (libraries Hello dynlink)
   (modules HelloDev)
-  (modes native)
+  ; (modes native)
   (link_flags -cclib -framework -cclib Cocoa -cclib -framework -cclib Carbon -cclib -framework -cclib CoreImage)
   (preprocess (pps belt.ppx fluid.ppx)))
 

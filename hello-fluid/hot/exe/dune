@@ -1,0 +1,4 @@
+(executable (public_name Exe)
+  (libraries Plugin Lib)
+  (flags -w -A)
+)

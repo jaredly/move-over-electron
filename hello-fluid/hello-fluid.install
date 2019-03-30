@@ -1,8 +1,0 @@
-lib: [
-  "_build/install/default/lib/hello-fluid/META" {"META"}
-  "_build/install/default/lib/hello-fluid/dune-package" {"dune-package"}
-  "_build/install/default/lib/hello-fluid/opam" {"opam"}
-]
-bin: [
-  "_build/install/default/bin/HelloDev" {"HelloDev"}
-]

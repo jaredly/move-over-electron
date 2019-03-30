@@ -1,0 +1,5 @@
+(library
+  (name One)
+  (libraries str flex belt fluid.Files fluid.MacOS dynlink)
+  (flags -w -A)
+  (preprocess (pps belt.ppx fluid.ppx)))
