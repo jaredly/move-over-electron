@@ -3,3 +3,4 @@ node_modules
 _build
 .merlin
 hello-electron/Hello Electron-darwin-x64/
+*.install
