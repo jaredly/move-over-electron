@@ -1,5 +1,4 @@
 (executable (name Two) (libraries One)
   (public_name Two)
-  (modes native)
-  (link_flags -linkall -cclib -framework -cclib Cocoa -cclib -framework -cclib Carbon -cclib -framework -cclib CoreImage)
+  ; (modes native)
 )

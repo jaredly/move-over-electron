@@ -7,4 +7,4 @@ try {
   | Dynlink.Error(error) => print_endline(Dynlink.error_message(error))
 };
 
-Hello.main();
+include Hello;
