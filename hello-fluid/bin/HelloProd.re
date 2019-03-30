@@ -1,1 +1,1 @@
-Hello.main();
+include Hello;
