@@ -334,10 +334,12 @@ export const nodeToSlide = ({node, sectionTitles}) => {
   }
   return <Slide
     key={node._id}
-    maxWidth={1200}
-    // maxHeight={800}
+    maxWidth={1500}
+    maxHeight={850}
     style={{
       backgroundColor: 'white',
+      // maxWidth: 1200,
+      // maxHeight: 800,
       // minHeight: 800,
       // minWidth: 1500,
     }}

@@ -97,7 +97,7 @@ export default class Presentation extends React.Component {
 
           <a style={{
             textDecoration: 'none',
-          }} href="https://jaredforsyth.com/type-safe-react">jaredforsyth.com/type-safe-react</a>
+          }} href="https://jaredforsyth.com/move-over-electron">jaredforsyth.com/move-over-electron</a>
 
 
         </div>

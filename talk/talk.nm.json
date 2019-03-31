@@ -1,7 +1,7 @@
 {
   "_id": null,
   "created": 1553833626269,
-  "modified": 1553963211087,
+  "modified": 1553967970119,
   "completed": null,
   "parent": null,
   "trashed": null,
@@ -134,7 +134,7 @@
           "completed": null,
           "content": "Hi! I'm Jared, and I do mobile & web development at Khan Academy, where we're building a free, world-class education for anyone, anywhere.",
           "created": 1521124790906,
-          "modified": 1553963243058,
+          "modified": 1553967267316,
           "parent": null,
           "plugins": {},
           "trashed": null,
@@ -153,56 +153,21 @@
     {
       "_id": null,
       "created": 1553837415900,
-      "modified": 1553837454555,
+      "modified": 1553992880155,
       "completed": null,
       "parent": null,
       "trashed": null,
       "children": [
         {
           "_id": null,
-          "created": 1553837311109,
-          "modified": 1553837416716,
-          "completed": null,
-          "parent": null,
-          "trashed": null,
-          "children": [
-            {
-              "_id": null,
-              "created": 1553837389624,
-              "modified": 1553837411759,
-              "completed": null,
-              "parent": null,
-              "trashed": null,
-              "children": [],
-              "type": "normal",
-              "content": "Maybe this should be my opening slide",
-              "plugins": {},
-              "types": {},
-              "views": {},
-              "_rev": null
-            }
-          ],
-          "type": "normal",
-          "content": "What if I told you.. meme.. you could write this (screenshot of react/jsx looking stuff) ... and get this (screenshot of the native-rendered dealio, along with file size & memory usage screenshots)",
-          "plugins": {
-            "themes": {
-              "highlighted": false
-            }
-          },
-          "types": {},
-          "views": {},
-          "_rev": null
-        },
-        {
-          "_id": null,
-          "created": 1553837425802,
-          "modified": 1553837440732,
+          "created": 1553992869543,
+          "modified": 1553992872975,
           "completed": null,
           "parent": null,
           "trashed": null,
           "children": [],
           "type": "normal",
-          "content": "!a {img} hype.png",
+          "content": "{img} what-if.png",
           "plugins": {},
           "types": {},
           "views": {},
@@ -210,14 +175,14 @@
         },
         {
           "_id": null,
-          "created": 1553837454555,
-          "modified": 1553837455957,
+          "created": 1553837425802,
+          "modified": 1553995748451,
           "completed": null,
           "parent": null,
           "trashed": null,
           "children": [],
           "type": "normal",
-          "content": "the hype thing should be positioned over the image.",
+          "content": "!a Hype™",
           "plugins": {
             "themes": {
               "disabled": true
@@ -230,11 +195,47 @@
         {
           "_id": null,
           "created": 1553837418037,
-          "modified": 1553837533968,
+          "modified": 1553992878573,
           "completed": null,
           "parent": null,
           "trashed": null,
-          "children": [],
+          "children": [
+            {
+              "_id": null,
+              "created": 1553837311109,
+              "modified": 1553992878573,
+              "completed": null,
+              "parent": null,
+              "trashed": null,
+              "children": [
+                {
+                  "_id": null,
+                  "created": 1553837389624,
+                  "modified": 1553837411759,
+                  "completed": null,
+                  "parent": null,
+                  "trashed": null,
+                  "children": [],
+                  "type": "normal",
+                  "content": "Maybe this should be my opening slide",
+                  "plugins": {},
+                  "types": {},
+                  "views": {},
+                  "_rev": null
+                }
+              ],
+              "type": "normal",
+              "content": "What if I told you.. meme.. you could write this (screenshot of react/jsx looking stuff) ... and get this (screenshot of the native-rendered dealio, along with file size & memory usage screenshots)",
+              "plugins": {
+                "themes": {
+                  "highlighted": false
+                }
+              },
+              "types": {},
+              "views": {},
+              "_rev": null
+            }
+          ],
           "type": "note",
           "content": "So this is a hype talk, and I'll be giving y'all a sneak peak at the good stuff that's coming in the wonderful world of Reason. ",
           "plugins": {},
@@ -341,11 +342,27 @@
         {
           "_id": null,
           "created": 1553837612634,
-          "modified": 1553837960642,
+          "modified": 1553965051793,
           "completed": null,
           "parent": null,
           "trashed": null,
-          "children": [],
+          "children": [
+            {
+              "_id": null,
+              "created": 1553965051793,
+              "modified": 1553965063077,
+              "completed": null,
+              "parent": null,
+              "trashed": null,
+              "children": [],
+              "type": "normal",
+              "content": "Thin layer over on OCaml",
+              "plugins": {},
+              "types": {},
+              "views": {},
+              "_rev": null
+            }
+          ],
           "type": "note",
           "content": "You may have heard of Reason for it's rock-solid type system and the first-class integration with the npm ecosystem, and more specifically React.js -- to the point where half of facebook's messenger.com is written in it! But one area that's seen a lot of exciting development in the last 6 months is native-compiled react-like UI frameworks. But before we get into that, let's talk a little bit about electron.",
           "plugins": {},
@@ -364,7 +381,7 @@
     {
       "_id": null,
       "created": 1553835232422,
-      "modified": 1553839101766,
+      "modified": 1553969821269,
       "completed": null,
       "parent": null,
       "trashed": null,
@@ -380,7 +397,7 @@
             {
               "_id": null,
               "created": 1553836420890,
-              "modified": 1553839047729,
+              "modified": 1553965092022,
               "completed": null,
               "parent": null,
               "trashed": null,
@@ -388,73 +405,13 @@
                 {
                   "_id": null,
                   "created": 1553838214784,
-                  "modified": 1553838245986,
+                  "modified": 1553965089858,
                   "completed": null,
                   "parent": null,
                   "trashed": null,
                   "children": [],
                   "type": "normal",
-                  "content": "And honestly, lots of people thought desktop apps were going away.",
-                  "plugins": {},
-                  "types": {},
-                  "views": {},
-                  "_rev": null
-                },
-                {
-                  "_id": null,
-                  "created": 1553838245987,
-                  "modified": 1553839009930,
-                  "completed": null,
-                  "parent": null,
-                  "trashed": null,
-                  "children": [],
-                  "type": "normal",
-                  "content": "Chromebooks were introduced in 2011, and didn't allow any non-web apps.",
-                  "plugins": {},
-                  "types": {},
-                  "views": {},
-                  "_rev": null
-                },
-                {
-                  "_id": null,
-                  "created": 1553839030887,
-                  "modified": 1553839035570,
-                  "completed": null,
-                  "parent": null,
-                  "trashed": null,
-                  "children": [],
-                  "type": "normal",
-                  "content": "uhhhh ok this is boring though.",
-                  "plugins": {},
-                  "types": {},
-                  "views": {},
-                  "_rev": null
-                },
-                {
-                  "_id": null,
-                  "created": 1553839035570,
-                  "modified": 1553839047728,
-                  "completed": null,
-                  "parent": null,
-                  "trashed": null,
-                  "children": [],
-                  "type": "normal",
-                  "content": "How many of y'all have played around with electron?",
-                  "plugins": {},
-                  "types": {},
-                  "views": {},
-                  "_rev": null
-                },
-                {
-                  "_id": null,
-                  "created": 1553839047728,
-                  "modified": 1553839050880,
-                  "completed": null,
-                  "parent": null,
-                  "trashed": null,
-                  "children": [],
-                  "type": "normal",
-                  "content": "Pretty cool, right?",
+                  "content": "And honestly, lots of people thought desktop apps were going away. Sure, games & adobe illustrator and stuff, but for everything else, use the web.",
                   "plugins": {},
                   "types": {},
                   "views": {},
@@ -600,23 +557,8 @@
         },
         {
           "_id": null,
-          "created": 1553839101766,
-          "modified": 1553839110114,
-          "completed": null,
-          "parent": null,
-          "trashed": null,
-          "children": [],
-          "type": "normal",
-          "content": "Honestly I could probably cut it off here",
-          "plugins": {},
-          "types": {},
-          "views": {},
-          "_rev": null
-        },
-        {
-          "_id": null,
           "created": 1553835991836,
-          "modified": 1553836190830,
+          "modified": 1553992997030,
           "completed": null,
           "parent": null,
           "trashed": null,
@@ -654,7 +596,11 @@
           ],
           "type": "header",
           "content": "Native UI Controls, Animations, and Performance",
-          "plugins": {},
+          "plugins": {
+            "themes": {
+              "disabled": true
+            }
+          },
           "types": {},
           "views": {},
           "_rev": null
@@ -662,7 +608,7 @@
         {
           "_id": null,
           "created": 1553836113251,
-          "modified": 1553836311491,
+          "modified": 1553993001761,
           "completed": null,
           "parent": null,
           "trashed": null,
@@ -700,7 +646,11 @@
           ],
           "type": "header",
           "content": "_",
-          "plugins": {},
+          "plugins": {
+            "themes": {
+              "disabled": false
+            }
+          },
           "types": {},
           "views": {},
           "_rev": null
@@ -708,7 +658,7 @@
         {
           "_id": null,
           "created": 1553836449305,
-          "modified": 1553837220931,
+          "modified": 1553992999120,
           "completed": null,
           "parent": null,
           "trashed": null,
@@ -777,7 +727,11 @@
           ],
           "type": "header",
           "content": "Ways electron wins",
-          "plugins": {},
+          "plugins": {
+            "themes": {
+              "disabled": true
+            }
+          },
           "types": {},
           "views": {},
           "_rev": null
@@ -793,7 +747,7 @@
     {
       "_id": null,
       "created": 1553836368421,
-      "modified": 1553836514443,
+      "modified": 1553967296795,
       "completed": null,
       "parent": null,
       "trashed": null,
@@ -890,9 +844,13 @@
           "_rev": null
         }
       ],
-      "type": "header",
+      "type": "normal",
       "content": "Why even desktop? (maybe delete)",
-      "plugins": {},
+      "plugins": {
+        "themes": {
+          "disabled": true
+        }
+      },
       "types": {},
       "views": {},
       "_rev": null
@@ -900,7 +858,7 @@
     {
       "_id": null,
       "created": 1553836689149,
-      "modified": 1553836709262,
+      "modified": 1553967301925,
       "completed": null,
       "parent": null,
       "trashed": null,
@@ -921,9 +879,13 @@
           "_rev": null
         }
       ],
-      "type": "header",
+      "type": "normal",
       "content": "Electron + Reason",
-      "plugins": {},
+      "plugins": {
+        "themes": {
+          "disabled": true
+        }
+      },
       "types": {},
       "views": {},
       "_rev": null
@@ -931,15 +893,154 @@
     {
       "_id": null,
       "created": 1553836721208,
-      "modified": 1553839123639,
+      "modified": 1553968076654,
       "completed": null,
       "parent": null,
       "trashed": null,
       "children": [
         {
           "_id": null,
+          "created": 1553967309362,
+          "modified": 1553968076654,
+          "completed": null,
+          "parent": null,
+          "trashed": null,
+          "children": [
+            {
+              "_id": null,
+              "created": 1553967979352,
+              "modified": 1553968001863,
+              "completed": null,
+              "parent": null,
+              "trashed": null,
+              "children": [
+                {
+                  "_id": null,
+                  "created": 1553967993256,
+                  "modified": 1553967999238,
+                  "completed": null,
+                  "parent": null,
+                  "trashed": null,
+                  "children": [],
+                  "type": "normal",
+                  "content": "TODO logo",
+                  "plugins": {},
+                  "types": {},
+                  "views": {},
+                  "_rev": null
+                },
+                {
+                  "_id": null,
+                  "created": 1553968001863,
+                  "modified": 1553968034331,
+                  "completed": null,
+                  "parent": null,
+                  "trashed": null,
+                  "children": [],
+                  "type": "note",
+                  "content": "targetting OpenGL, cross-platform. Building the Oni2 editor (backed by Neovim, very cool project)",
+                  "plugins": {},
+                  "types": {},
+                  "views": {},
+                  "_rev": null
+                }
+              ],
+              "type": "normal",
+              "content": "Revery",
+              "plugins": {},
+              "types": {},
+              "views": {},
+              "_rev": null
+            },
+            {
+              "_id": null,
+              "created": 1553968036811,
+              "modified": 1553968056747,
+              "completed": null,
+              "parent": null,
+              "trashed": null,
+              "children": [
+                {
+                  "_id": null,
+                  "created": 1553968041120,
+                  "modified": 1553968055747,
+                  "completed": null,
+                  "parent": null,
+                  "trashed": null,
+                  "children": [],
+                  "type": "normal",
+                  "content": "the React implementation behind Revery. Also is working on MacOS Bindings",
+                  "plugins": {},
+                  "types": {},
+                  "views": {},
+                  "_rev": null
+                }
+              ],
+              "type": "normal",
+              "content": "Briskml",
+              "plugins": {},
+              "types": {},
+              "views": {},
+              "_rev": null
+            },
+            {
+              "_id": null,
+              "created": 1553968057090,
+              "modified": 1553968058602,
+              "completed": null,
+              "parent": null,
+              "trashed": null,
+              "children": [
+                {
+                  "_id": null,
+                  "created": 1553968058591,
+                  "modified": 1553968069369,
+                  "completed": null,
+                  "parent": null,
+                  "trashed": null,
+                  "children": [],
+                  "type": "normal",
+                  "content": "my experimental react implementation with MacOS bindings",
+                  "plugins": {},
+                  "types": {},
+                  "views": {},
+                  "_rev": null
+                }
+              ],
+              "type": "normal",
+              "content": "Fluid",
+              "plugins": {},
+              "types": {},
+              "views": {},
+              "_rev": null
+            }
+          ],
+          "type": "header",
+          "content": "Native React on the Desktop",
+          "plugins": {},
+          "types": {},
+          "views": {},
+          "_rev": null
+        },
+        {
+          "_id": null,
+          "created": 1553968076330,
+          "modified": 1553968081175,
+          "completed": null,
+          "parent": null,
+          "trashed": null,
+          "children": [],
+          "type": "header",
+          "content": "Demo Time!!",
+          "plugins": {},
+          "types": {},
+          "views": {},
+          "_rev": null
+        },
+        {
+          "_id": null,
           "created": 1553839123639,
-          "modified": 1553839139770,
+          "modified": 1553967620098,
           "completed": null,
           "parent": null,
           "trashed": null,
@@ -954,6 +1055,112 @@
               "children": [],
               "type": "normal",
               "content": "lol if I get hot reloading going it is going dowwwn y'all",
+              "plugins": {},
+              "types": {},
+              "views": {},
+              "_rev": null
+            },
+            {
+              "_id": null,
+              "created": 1553967620098,
+              "modified": 1553967663036,
+              "completed": null,
+              "parent": null,
+              "trashed": null,
+              "children": [
+                {
+                  "_id": null,
+                  "created": 1553967624782,
+                  "modified": 1553967631709,
+                  "completed": null,
+                  "parent": null,
+                  "trashed": null,
+                  "children": [],
+                  "type": "normal",
+                  "content": "First, a simple \"hello world\"",
+                  "plugins": {},
+                  "types": {},
+                  "views": {},
+                  "_rev": null
+                },
+                {
+                  "_id": null,
+                  "created": 1553967631709,
+                  "modified": 1553967635965,
+                  "completed": null,
+                  "parent": null,
+                  "trashed": null,
+                  "children": [],
+                  "type": "normal",
+                  "content": "edit the text, show that.",
+                  "plugins": {},
+                  "types": {},
+                  "views": {},
+                  "_rev": null
+                },
+                {
+                  "_id": null,
+                  "created": 1553967635965,
+                  "modified": 1553967643626,
+                  "completed": null,
+                  "parent": null,
+                  "trashed": null,
+                  "children": [],
+                  "type": "normal",
+                  "content": "What am I building?",
+                  "plugins": {},
+                  "types": {},
+                  "views": {},
+                  "_rev": null
+                },
+                {
+                  "_id": null,
+                  "created": 1553967643626,
+                  "modified": 1553967660596,
+                  "completed": null,
+                  "parent": null,
+                  "trashed": null,
+                  "children": [],
+                  "type": "normal",
+                  "content": "scrollView",
+                  "plugins": {},
+                  "types": {},
+                  "views": {},
+                  "_rev": null
+                },
+                {
+                  "_id": null,
+                  "created": 1553967660597,
+                  "modified": 1553967663035,
+                  "completed": null,
+                  "parent": null,
+                  "trashed": null,
+                  "children": [],
+                  "type": "normal",
+                  "content": "image",
+                  "plugins": {},
+                  "types": {},
+                  "views": {},
+                  "_rev": null
+                },
+                {
+                  "_id": null,
+                  "created": 1553967663036,
+                  "modified": 1553967669340,
+                  "completed": null,
+                  "parent": null,
+                  "trashed": null,
+                  "children": [],
+                  "type": "normal",
+                  "content": "thing",
+                  "plugins": {},
+                  "types": {},
+                  "views": {},
+                  "_rev": null
+                }
+              ],
+              "type": "normal",
+              "content": "Live coding stuff",
               "plugins": {},
               "types": {},
               "views": {},
@@ -1005,21 +1212,6 @@
       ],
       "type": "header",
       "content": "Native React on the Desktop",
-      "plugins": {},
-      "types": {},
-      "views": {},
-      "_rev": null
-    },
-    {
-      "_id": null,
-      "created": 1553836746082,
-      "modified": 1553837310358,
-      "completed": null,
-      "parent": null,
-      "trashed": null,
-      "children": [],
-      "type": "normal",
-      "content": "So where do we go from here? Well, let's talk about reason. \nOne of reasons main goal is to be accessible and friendly to JavaScript developers. If you're targeting the web, you get bucklescropt, a blazing fast compiler that outputs readable JavaScript, and has Forest class integration with the existing npm/JavaScript ecosystem. \nAnd the thing that got me hooked on reason initially was the promise of multi Target compilation. OCaml is traditionally a native compiled language, so you get servers, desktop, and even mobile compilation within the ecosystem already. Add to that a syntax that feels like JavaScript and a js compiler with tight npm integration, and you're off to the races. \nWell, the past six months or so have been an exciting time for this area of reason development. Let me take you on a tour. ",
       "plugins": {},
       "types": {},
       "views": {},
