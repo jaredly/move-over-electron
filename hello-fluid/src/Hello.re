@@ -30,17 +30,21 @@ Fluid.Hot.launchWindow(
   ~title="Welcome to Fluid!",
   <view layout={Layout.style(~alignItems=AlignStretch, ~padding=32., ())}>
     <text
-      contents="Hello Reactathon!!"
+      contents="Hello Reactation!"
       font={fontName: "Arial", fontSize: 32.}
     />
     spacer
     <weveGotHooks initial=10 />
+    <image
+      src=Plain("./electron-tweet.png")
+      layout={Layout.style(~width=250., ~height=150., ())}
+    />
+    <text contents="Hi" onChange={text => {
+      print_endline(text);
+    }} />
   </view>,
 );
 
-print_endline(Stdlib.Sys.executable_name);
-
-print_endline("init");
 Fluid.Hot.init("./_build/default/src/Hello.cma", () => {
   Fluid.App.setupAppMenu(
     ~title="Welcome to Fluid!",
