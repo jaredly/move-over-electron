@@ -95,9 +95,9 @@ export default class Presentation extends React.Component {
           }} href="https://twitter.com/@jaredforsyth">@jaredforsyth</a>
           <div style={{width: '32px'}}/>
 
-          <a style={{
+          {/* <a style={{
             textDecoration: 'none',
-          }} href="https://jaredforsyth.com/move-over-electron">jaredforsyth.com/move-over-electron</a>
+          }} href="https://jaredforsyth.com/move-over-electron">jaredforsyth.com/move-over-electron</a> */}
 
 
         </div>
