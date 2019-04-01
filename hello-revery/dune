@@ -1,5 +1,6 @@
 (executable
   (public_name App)
+    (modes native byte object (byte object))
   (libraries Revery))
 
 (install

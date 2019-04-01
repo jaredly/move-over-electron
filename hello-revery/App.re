@@ -1,6 +1,8 @@
 open Revery;
 open Revery.UI;
 
+print_endline(Unix.getcwd());
+
 let init = app => {
   let win = App.createWindow(
     ~createOptions={
@@ -19,6 +21,7 @@ let init = app => {
     ];
 
   // let innerStyle = Style.[alignItems(`FlexEnd)];
+  print_endline("Hello");
 
   let textStyle = Style.[
             fontFamily("Roboto-Regular.ttf"),
