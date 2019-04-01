@@ -16,4 +16,4 @@ S /Users/jared/clone/explorations/fluid/src/layout
 S /Users/jared/clone/explorations/fluid/src/native
 S .
 FLG -ppx '/Users/jared/clone/talks/move-over-electron/hello-fluid/_build/default/.ppx/9786a1929d64b5a176282090b95e0fef/ppx.exe --as-ppx --cookie '\''library-name="Hello"'\'''
-FLG -w -40 -w -A
+FLG -w @a-4-29-40-41-42-44-45-48-58-59-60-40 -strict-sequence -strict-formats -short-paths -keep-locs -w -A

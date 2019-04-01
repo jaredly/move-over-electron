@@ -30,11 +30,11 @@ Fluid.Hot.launchWindow(
   ~title="Welcome to Fluid!",
   <view layout={Layout.style(~alignItems=AlignStretch, ~padding=32., ())}>
     <text
-      contents="Hello Reactation!"
+      contents="Hello Love it :D"
       font={fontName: "Arial", fontSize: 32.}
     />
     spacer
-    <weveGotHooks initial=10 />
+    <weveGotHooks initial=20 />
     <image
       src=Plain("./electron-tweet.png")
       layout={Layout.style(~width=250., ~height=150., ())}
